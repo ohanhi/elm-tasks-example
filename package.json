@@ -1,0 +1,20 @@
+{
+  "name": "elm-tasks-example",
+  "version": "1.0.0",
+  "description": "Simple example app utilizing Tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohanhi/elm-tasks-example.git"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ohanhi/elm-tasks-example/issues"
+  },
+  "homepage": "https://github.com/ohanhi/elm-tasks-example#readme",
+  "dependencies": {}
+}
